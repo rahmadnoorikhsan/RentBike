@@ -7,8 +7,8 @@ sns.set_theme(style='dark')
 import helper_func
 
 #load data day_clean_df dan hour_clean_df
-day_df = pd.read_csv("day_clean_df.csv")
-hour_df = pd.read_csv("hour_clean_df.csv")
+day_df = pd.read_csv("dashboard/day_clean_df.csv")
+hour_df = pd.read_csv("dashboard/hour_clean_df.csv")
 
 # Mengambil min dan max date
 min_date = pd.to_datetime(day_df['date_day']).dt.date.min()
