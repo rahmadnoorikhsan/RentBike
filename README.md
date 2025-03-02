@@ -37,3 +37,6 @@ pip install -r requirements.txt
 cd BikeRent/dashboard
 streamlit run dashboard.py
 ```
+
+## Preview
+<img src="https://raw.githubusercontent.com/rahmadnoorikhsan/RentBike/refs/heads/main/data/dashboard.png"/>
