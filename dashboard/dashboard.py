@@ -17,7 +17,7 @@ max_date = pd.to_datetime(day_df['date_day']).dt.date.max()
 # Membuat komponen filter
 with st.sidebar:
     # menambahkan logo
-    st.image("https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/image1_hH9B4gs.jpg")
+    st.image("https://raw.githubusercontent.com/rahmadnoorikhsan/RentBike/refs/heads/main/data/RentBike.png")
     
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
