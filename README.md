@@ -1,4 +1,5 @@
 # RentBike
+Source of dataset : [Bike Sharing Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset/data)
 
 ## Business Understanding
 Pertanyaan bisnis:
